@@ -1,5 +1,7 @@
 # OP-Platform
-自己写的一个小的运维平台demo,目前包含功能只有cmdb信息管理（批量录入、IP模糊查询、编辑、删除、分页），远程ssh命令执行
+自己写的一个小的运维平台demo,目前包含功能
+cmdb信息管理（批量录入、IP模糊查询、编辑、删除、分页、远程ssh命令）
+
 使用语言：python 3.8 node-v16.14.2
 后端框架：django 4.2.1  django rest framework 3.14.0
 前端框架：@vue/cli 5.0.8 + element plus
